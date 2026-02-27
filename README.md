@@ -122,7 +122,7 @@ To run this notebook, you will need to install the following Python libraries
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-
+```
 
 ## Group Members
 
